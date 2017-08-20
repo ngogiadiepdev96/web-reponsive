@@ -1,0 +1,16 @@
+.wp-inner{
+	max-width: 960px;
+	margin: 0 auto;
+}
+/*Add your css into here*/
+.fl_left{ float: left;}
+.fl_right{ float: right;}
+.align{
+	text-align: center;
+}
+a:hover{
+	text-decoration: underline;
+}
+a{
+	font-size: 12px;
+}
